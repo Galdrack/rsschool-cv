@@ -1,0 +1,71 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+ }
+ .navigation{
+   justify-content: center;
+   display: flex;
+ }
+nav li {
+    display: inline;
+}
+nav li a{
+    font-size:x-large;
+    padding: 10px;
+    display: inline;
+    text-decoration: none;
+    color: white;
+}
+ .header-content img{
+    width: 400px;
+    height: auto;
+ }
+ .content {
+    width: 1140px;
+    color: white;
+}
+ .header-content {
+    margin-top: 20px;
+ display: flex;
+ }
+.cv-name {
+  text-align: center;
+  margin: auto;
+}
+.content-about-me{
+    width: 50%;
+}
+li {
+    padding: 10px;
+    font-size: medium;
+    text-decoration: none;
+}
+a {
+    color:white;
+    text-decoration: none;
+}
+.code{
+    width: 40%;
+    background-color:#A9A9A9;
+}
+.content {
+    margin: auto;
+    padding: 20px;
+    margin-top: 10px ;
+    width: 1140px;
+    color: white;
+    background-color: black;
+    border-top: 4px solid white;
+}
+.footer-content {
+    display: flex;
+    justify-content: space-between;
+}
+.footer-item{
+    margin: auto;
+}
+.rschool img{
+width: 50px;
+height: 30px;
+}
